@@ -10,3 +10,10 @@ BDFD è un applicazione del Google play store per lo sviluppo di semplici applic
 
 **Perché dovrei utilizzare Bdscript?**
 Bdscript si distingue per la sua chiarezza e la completezza delle funzionalità di scripting orientato agli oggetti, rendendolo ideale per sviluppatori che desiderano una soluzione efficace e intuitiva per creare applicazioni bot Discord. Se hai esperienza con BDFD o JavaScript, Bdscript offre un'alternativa potente e accessibile per accelerare il tuo workflow di sviluppo, mantenendo una curva di apprendimento bassa e una maggiore produttività.
+
+# Documentazione e rispose
+- [struttura base](https://example.com) Informazioni sulla struttura di base di un programma Bdscript.
+- [commenti](https://example.com) Come utilizzare i commenti per documentare il tuo codice in Bdscript.
+- [ciao](https://example.com)
+- [ciao](https://example.com)
+- [ciao](https://example.com)
